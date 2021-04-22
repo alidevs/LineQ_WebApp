@@ -1,0 +1,43 @@
+{
+    "user": {
+        "uid": "7t3muaHSmJRBEJl47e68mCfjqwG2",
+        "displayName": null,
+        "photoURL": null,
+        "email": "xinickelz@gmail.com",
+        "emailVerified": false,
+        "phoneNumber": null,
+        "isAnonymous": false,
+        "tenantId": null,
+        "providerData": [
+            {
+                "uid": "xinickelz@gmail.com",
+                "displayName": null,
+                "photoURL": null,
+                "email": "xinickelz@gmail.com",
+                "phoneNumber": null,
+                "providerId": "password"
+            }
+        ],
+        "apiKey": "AIzaSyBLDoZ_KYJjFt8tf_VM33IYE7xxCSFAPwc",
+        "appName": "[DEFAULT]",
+        "authDomain": "lineq-c30c3.firebaseapp.com",
+        "stsTokenManager": {
+            "apiKey": "AIzaSyBLDoZ_KYJjFt8tf_VM33IYE7xxCSFAPwc",
+            "refreshToken": "AOvuKvQcOn7PD2JbeK7Fo2nTqTdb_COYLkinWYSymmEzr8UhQlC_P2N3zXunM2zVXPiiO5wflZs0ljsyczUXXhM675sxtKNYwfv6jg_WNa04TU-0dkpaKO3aFvKpROA8uEOxeJAz1obbUY7tHaEAbP521u0uj1M9-tSMIxcqxPZ7rMLuicXISax02yLfch42ZX4Cgbs_H_Ji",
+            "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjFkZTgwNjdhODI5OGE0ZTMzNDRiNGRiZGVkMjVmMmZiNGY0MGYzY2UiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbGluZXEtYzMwYzMiLCJhdWQiOiJsaW5lcS1jMzBjMyIsImF1dGhfdGltZSI6MTYxODA2OTcyNywidXNlcl9pZCI6Ijd0M211YUhTbUpSQkVKbDQ3ZTY4bUNmanF3RzIiLCJzdWIiOiI3dDNtdWFIU21KUkJFSmw0N2U2OG1DZmpxd0cyIiwiaWF0IjoxNjE4MDY5NzI3LCJleHAiOjE2MTgwNzMzMjcsImVtYWlsIjoieGluaWNrZWx6QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJ4aW5pY2tlbHpAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.dkZan4ZcLAwMObkCz2v_uJcVV4msZ2uwn67UJaLdgVgHnUIxVKf0AZczUdDIWZtrHzEF2SeadY1X4mao6jlSOCpfCOfJbp2xPC6PrTTrvmRVROmxHLBbNkp3smDF9GA7srWOJTY-SGDJVWRlSocV551h4c6_M2THvvLvVefbc4uN4Eotwbqea1jptAuzIYYfvHv8NiOTVkaPYCJz5JPO8Rw4Pp-pQD3EQprYZQai_NykzBr_wePwFdU7nzCgQNWeo2B9zMr697HX-0MvCMmeaRO24bD1PNpzuvdoAEcBuHPAbpk-eSAo9XN0y6ZPRGqizEHwUqInC7MkgZ-nMbL9zw",
+            "expirationTime": 1618073327265
+        },
+        "redirectEventId": null,
+        "lastLoginAt": "1618069727145",
+        "createdAt": "1617152513041",
+        "multiFactor": {
+            "enrolledFactors": []
+        }
+    },
+    "credential": null,
+    "additionalUserInfo": {
+        "providerId": "password",
+        "isNewUser": false
+    },
+    "operationType": "signIn"
+}
