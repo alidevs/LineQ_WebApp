@@ -104,3 +104,6 @@ dist
 .tern-port
 
 ./db/*.json
+
+/db/firebaseConfig.json
+/db/serviceAccountKey.json
